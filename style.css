@@ -1,0 +1,38 @@
+body{
+    background-color: #01AAD6;
+    font-family: sans-serif;
+}
+h1{
+    margin: 20px 0 20px 65px;
+}
+.clock{
+    font-size: 50px;
+    margin: 0 auto;
+    margin: 0 0 10px 50px;
+    position: relative;
+
+}
+.content{
+    width: 300px;
+    margin: 0 auto;
+    background: #fefefe;
+    padding: 50px 50px 100px 50px;
+    border: 5px solid #bebebe;
+    position: relative;
+}
+.atalho{
+    padding-top: 50px;
+    margin-left: 20px;
+}
+button{
+    background: #2196F3;
+    border-radius: 5px;
+    border: #2196F3;
+    margin: 0 0 0 20px;
+    color: #ffffff;
+    width: 125px;
+    float: left;
+    font-size: 16px;
+    padding: 10px 0;
+    letter-spacing: 1px;
+}
